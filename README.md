@@ -9,8 +9,8 @@ To make sure the program can access your index, at the top of the *QueryEngine.j
 can assign the *indexPath* variable to wherever you have stored the index on your local machine. 
 *indexPath* is the path for how it was stored on my machine, and can serve as an example.
 
-Link for my best index : 
-
+Link for my best index : https://drive.google.com/file/d/18-YjcF_AWUdnFvi5PQ3tdF_7NVzkOnIS/view?usp=sharing
+If you have this link you should be able to download, email me at zwiegand@email.arizona.edu immediately if you have problems.
 
 **Running Instructions**
 
