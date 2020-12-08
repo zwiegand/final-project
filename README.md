@@ -1,4 +1,4 @@
-**Setup Instructions**
+**Setup Instructions**\n
 This file contains instructions on how to run the program, this information will be repeated on the report.
 
 Import the program from github, folder *final-project* contains all the code for my program, and the collection of
@@ -6,12 +6,12 @@ wikiPedia articles. You will still need to download the best index I have create
 
 To make sure the program can access your index, at the top of the *QueryEngine.java* file (the main code file), you
 can assign the *indexPath* variable to wherever you have stored the index on your local machine. 
-*indexPath* is the path for how it was stored on my machine, and can serve as an example.
+*indexPath* is the path for how it was stored on my machine, and can serve as an example.\n
 
-Link for my best index : 
+Link for my best index : \n
 
 
-**Running Instructions**
+**Running Instructions**\n
 After you have your path for the index set up at the top of the *QueryEngine.java* file you
 should be able to run the program.
 
@@ -29,14 +29,14 @@ the different file path here.
 
 After you have entered the path for the txt file containing the Jeopardy questions, the program should run very quickly, 
 printing the results. Each question will get an indication whether its "RIGHT" or "WRONG, the output the programs "guess" and the
-correct answer.
-Example:
+correct answer.\n
+Example:\n
 ```
 WRONG
 Guess was : Melrose Place
 Answer was : Heather Locklear
 ```
-At the very end of the output you will get to see how many questions were guessed correct out of how many questions there were.
+At the very end of the output you will get to see how many questions were guessed correct out of how many questions there were.\n
 
 ```
 Answers correct : 23
