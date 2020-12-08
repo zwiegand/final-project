@@ -31,7 +31,7 @@ the different file path here.
 
 After you have entered the path for the txt file containing the Jeopardy questions, the program should run very quickly, 
 printing the results. Each question will get an indication whether its "RIGHT" or "WRONG, the output the programs "guess" and the
-correct answer.
+correct answer. <br />
 Example:
 ```
 WRONG
